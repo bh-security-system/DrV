@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://win.numberclube.xyz//post.php",
-      "get": "https://win.numberclube.xyz/get.php",
-      "server": "https://win.numberclube.xyz/server_none.png",
-      "user": "https://win.numberclube.xyz/user_ban.png"
+      "post": "https://app.drvap.xyz//post.php",
+      "get": "https://app.drvap.xyz/get.php",
+      "server": "https://app.drvap.xyz/server_none.png",
+      "user": "https://app.drvap.xyz/user_ban.png"
     }
   ]
 }
