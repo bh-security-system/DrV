@@ -2,6 +2,7 @@
   "address": [
     {
       "post": "https://dr.ao1testb.com//post.php",
+      "postV": "https://dr.ao1testb.com//postN.php",
       "get": "https://dr.ao1testb.com/get.php",
       "server": "https://dr.ao1testb.com/server_none.png",
       "user": "https://dr.ao1testb.com/user_ban.png"
